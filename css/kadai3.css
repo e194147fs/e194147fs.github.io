@@ -1,0 +1,21 @@
+h1{
+    color: white;
+    font-size: 50px;
+    font-family: "arial unicode ms";
+    text-align: center;
+    background-color: sienna;
+}
+h3{
+    color: white;
+    text-align: center;
+    background-color: sienna;
+}
+h4{
+    color: darkgoldenrod;
+}
+h5{
+    color: white;
+}
+body{
+    background-image: url("../images/701dg.jpg");
+}

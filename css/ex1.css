@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+h3{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+table{
+    color: white;
+    background-color: black;
+}
+body{
+    background-image: url(../images/pulp-fiction.jpg)
+}
+ol{
+    background-image: url(../images/23047742.jpg)
+}

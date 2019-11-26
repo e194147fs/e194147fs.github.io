@@ -1,0 +1,28 @@
+.first{
+    color: white;
+    background-color: black;
+    text-align: center
+    
+}
+
+.second{
+    color: yellow;
+    background-color: crimson;
+    text-align: center
+}
+.third{
+    color: white;
+    background-color: darkblue;
+    text-align: center;
+}
+
+h1#forth{
+    color: black;
+    background-color: darkgray;
+    text-align: center
+}
+
+body{
+    background-image: url(../images/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jfif);
+}
+

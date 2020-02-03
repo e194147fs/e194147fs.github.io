@@ -1,0 +1,70 @@
+div.Title{
+    margin: 20px 550px; 
+    border: solid 7px black;
+    text-align: center;
+    font-size: 100px;
+    font-family: fantasy
+}
+
+div.Main{
+    width: 1220px 800px;
+    margin: 0px 115px;
+    
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0px;
+}
+
+div.Movie{
+    width: 400px;
+    height: 800px;
+    margin: 0px 10px 0px 0px;
+    
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0px;
+    
+    font-size: 40px;
+
+    background-image: url(../images/f26b3ce780568341f16269e97fc3b553.jpg);
+    background-size: cover;
+}
+
+div.Music{
+    width: 400px;
+    height: 800px;
+    margin: 0px 10px;
+    
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0px;
+    
+    font-size: 40px;
+    
+    background-image: url(../images/bd4947b91db3875dca800a36fb6700b8.jpg);
+    background-size: cover
+}
+
+div.Sports{
+    width: 400px;
+    height: 800px;
+    margin: 0px 0px 0px 10px;
+    
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0px;
+    
+    font-size: 40px;
+
+    background-image: url(../images/20180320_mohamed-salah9397.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+    color: white
+}
+
+hr{
+    height: 5px;
+}
